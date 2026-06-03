@@ -1,3 +1,21 @@
+header{
+    height: 70px;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+   
+}
+header ul{
+    display:flex;  
+    gap: 6px; 
+}
+header ul li{
+    list-style: none;
+    
+}
+
 h1{
     color: blue;
     text-align: center;
